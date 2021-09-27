@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+				<meta charset="UTF-8">
+				<title>DAAB</title>
+				<link rel="stylesheet" type="text/css" href="style.css">
+				<link rel="stylesheet" href="css/css/all.min.css">
+				<link rel="stylesheet" href="css/webfonts/fa-solid-900">
+</head>
+<body>
+				<!-- navbar -->
+				<div class="navbar">
+								<p>flower</p>
+								<ul>
+												<li>home</li>												
+												<li>about</li>											
+												<li>servers</li>												
+												<li>our works</li>
+												<li>contact us</li>												
+								</ul>
+				</div>
+				<!-- header -->
+				<div class="header">
+								<div class="opacity"></div>
+								<p>Hello world maps.</p>
+				</div>
+				<!-- digail -->
+				<div class="digail">
+												<span><p>About.</p></span>
+		<p style="font-size:30px; color:#55aaaa; font-family: cambria;"> 
+			A world map is a map of most or all of the surface of Earth. World maps, because of their scale, must deal with the problem of projection. Maps rendered in two dimensions by necessity distort the display of the three-dimensional surface of the earth. While this is true of any map, these distortions reach extremes in a world map. Many techniques have been developed to present world maps that address diverse technical and aesthetic goals.
+						 </p>						
+<img src="2022/world map.gif" alt="" class="btn">
+</div>
+
+
+        <!-- world maps -->
+			<div class="world-maps">
+								<span><p>world maps.</p></span>
+								<img src="images/q.jpeg" alt="">
+								<img src="images/w.jpg" alt="">
+								<img src="images/e.jpg" alt="">
+								<img src="images/y.jpg" alt="">
+								<img src="images/u.jpg" alt="">
+								<img src="images/ss.jpg" alt="">
+								<img src="images/o.jpg" alt="">
+								<img src="images/p.jpg" alt="">
+								<img src="images/a.jpg" alt="">
+								<img src="images/s.jpg" alt="">
+								<img src="images/d.jpg" alt="">
+								<img src="images/f.png" alt="">
+								
+							<div>
+		<p style="font-size:50px; color:#550000; text-transform:uppercase;">electronic machines</p>
+								<img src="images/electronic1.jpg" alt="">
+								<img src="images/electronic2.jpg" alt="">
+								<img src="images/electronic3.jpg" alt="">
+								<img src="images/web.webp" alt="">
+								<img src="images/electronic8.jpg" alt="">
+								<img src="images/electronic4.jpg" alt="">
+								<img src="images/electronic5.jpg" alt="">
+								<img src="images/electronic6.png" alt="">
+								<img src="images/electronic7.png" alt="">
+																
+								</div>
+		       		</div><br><br><br><br><br>
+		       		
+		       		<!-- myproject -->
+	     		<div class="myproject">
+		    		<p class="mypage">Sewing machines.</p>
+			<img src="images/webp.webp" alt="">
+<img src="images/web.webp" alt="">
+								<img src="images/jpg.jpg" alt="">
+								<img src="images/jpg1.jpg" alt="">
+								<img src="images/jpg2.jpg" alt="">
+								<img src="images/jpg3.jpg" alt="">
+								<img src="images/1.png" alt="">
+								<img src="images/2.png" alt="">
+								<img src="images/3.png" alt="">
+								</div>
+										</div><br><br><br><br><br>
+						<!-- contact us -->		
+	<div class="contact-us">
+					<div class="iteam">
+									<i class="fa fa-phone fa-4px"></i>
+									+249968904038
+					</div>
+	<div class="contact-us">
+					<div class="iteam">
+									<i class="fa fa-map-marker fa-4px"></i>
+									ombda square 24 near the magtoum  Mosque
+					</div>
+	<div class="contact-us">
+					<div class="iteam">
+									<i class="fa fa-envelope fa-4px"></i>
+									degailalid@gmail.com
+				</div>
+  
+					</div>
+   </div>
+  </div>
+ <center>
+ 				
+ 				
+ 				
+ </center>
+</body>
+</html>
